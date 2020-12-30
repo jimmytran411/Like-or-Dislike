@@ -1,0 +1,29 @@
+{
+  "name": "like-dislike",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "parcel src/index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "classnames": "^2.2.6",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.12.10",
+    "@babel/plugin-proposal-class-properties": "^7.12.1",
+    "@babel/preset-env": "^7.12.11",
+    "@babel/preset-react": "^7.12.10",
+    "babel-eslint": "^10.1.0",
+    "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-jsx-a11y": "^6.4.1",
+    "eslint-plugin-react": "^7.21.5",
+    "parcel-bundler": "^1.12.4"
+  }
+}
